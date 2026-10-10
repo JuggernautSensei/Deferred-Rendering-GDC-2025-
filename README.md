@@ -1,5 +1,7 @@
 # Deferred Rendering을 이용한 렌더링 최적화
 
+<img width="951" height="526" alt="image" src="https://github.com/user-attachments/assets/ca7a4789-0ab0-489e-8fa8-2bc312bad4f6" />
+
 GDC 2025 발표 자료 저장소입니다. Forward Rendering의 비효율을 Deferred Rendering으로 해결하는 과정과, Deferred Rendering의 한계 및 해결 방안을 다룹니다.
 
 - 발표자: 안지우 (부경대학교 컴퓨터공학과 4학년)
