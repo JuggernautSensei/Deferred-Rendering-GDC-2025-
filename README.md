@@ -3,8 +3,6 @@
 GDC 2025 발표 자료 저장소입니다. Forward Rendering의 비효율을 Deferred Rendering으로 해결하는 과정과, Deferred Rendering의 한계 및 해결 방안을 다룹니다.
 
 - 발표자: 안지우 (부경대학교 컴퓨터공학과 4학년)
-- Git: https://github.com/powercrabman
-- Blog: https://powerclabman.tistory.com/
 
 ## 파일
 
